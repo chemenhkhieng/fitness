@@ -767,9 +767,15 @@ section{
         }
     }
 
+    .pricing .plan .list p{
+        padding: 1rem 9rem;
+    }
+
     .features .box-container .box.second{
         flex-flow: column;
     }
+
+
 }
 
 @media (max-width: 450px){

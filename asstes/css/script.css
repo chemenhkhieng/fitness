@@ -802,6 +802,9 @@ section {
   .about .content .title {
     font-size: 3rem;
   }
+  .pricing .plan .list p {
+    padding: 1rem 9rem;
+  }
   .features .box-container .box.second {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
